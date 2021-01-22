@@ -1,0 +1,21 @@
+{
+  "name": "old_hapi_demo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jasperhouston/old_hapi_demo.git"
+  },
+  "keywords": [
+    "hapi"
+  ],
+  "author": "JasperAHouston",
+  "license": "ISC",
+  "dependencies": {
+    "@hapi/hapi": "^16.6.3"
+  }
+}
